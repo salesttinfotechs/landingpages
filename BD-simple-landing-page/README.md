@@ -1,0 +1,1 @@
+https://bd-simple-landing-page.vercel.app
